@@ -1,0 +1,12 @@
+C:\Users\SHIRVAN\Desktop\everthing\PharmacyHome\PharmacyHome\bin\Debug\PharmacyHome.exe.config
+C:\Users\SHIRVAN\Desktop\everthing\PharmacyHome\PharmacyHome\bin\Debug\PharmacyHome.exe
+C:\Users\SHIRVAN\Desktop\everthing\PharmacyHome\PharmacyHome\bin\Debug\PharmacyHome.pdb
+C:\Users\SHIRVAN\Desktop\everthing\PharmacyHome\PharmacyHome\obj\Debug\PharmacyHome.csprojResolveAssemblyReference.cache
+C:\Users\SHIRVAN\Desktop\everthing\PharmacyHome\PharmacyHome\obj\Debug\PharmacyHome.Form1.resources
+C:\Users\SHIRVAN\Desktop\everthing\PharmacyHome\PharmacyHome\obj\Debug\PharmacyHome.Properties.Resources.resources
+C:\Users\SHIRVAN\Desktop\everthing\PharmacyHome\PharmacyHome\obj\Debug\PharmacyHome.csproj.GenerateResource.cache
+C:\Users\SHIRVAN\Desktop\everthing\PharmacyHome\PharmacyHome\obj\Debug\PharmacyHome.csproj.CoreCompileInputs.cache
+C:\Users\SHIRVAN\Desktop\everthing\PharmacyHome\PharmacyHome\obj\Debug\PharmacyHome.exe
+C:\Users\SHIRVAN\Desktop\everthing\PharmacyHome\PharmacyHome\obj\Debug\PharmacyHome.pdb
+C:\Users\SHIRVAN\Desktop\everthing\PharmacyHome\PharmacyHome\obj\Debug\PharmacyHome.Delete.resources
+C:\Users\SHIRVAN\Desktop\everthing\PharmacyHome\PharmacyHome\obj\Debug\PharmacyHome.Login.resources
